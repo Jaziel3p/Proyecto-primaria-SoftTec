@@ -25,7 +25,9 @@ namespace Primaria
         {
             InitializeComponent();
             CrearPDF();
-            axAcroPDF1.src = "D:/sSEMESTRES/SEMESTRES/SEPTIMO SEMESTRE/Gestion de proyectos/Interfaz/PrimariaAvance8/PrimariaAvance6/Primaria/bin/Debug/Reporte_BitacoraII.pdf";
+
+            axAcroPDF1.src = "D:/JAZIEL-SEMESTRES/SEMESTRES/SEPTIMO SEMESTRE/Gestion de proyectos/Interfaz/PrimariaAvance8/PrimariaAvance6/Primaria/bin/Debug/Reporte_BitacoraII.pdf";
+
         }
         private void CrearPDF()
         {
